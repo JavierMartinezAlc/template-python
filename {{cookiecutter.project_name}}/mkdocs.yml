@@ -1,9 +1,9 @@
 site_name: {{cookiecutter.project_name}}
 site_description: {{cookiecutter.project_short_description}}
-site_author: {{cookiecutter.full_name}}
+site_author: {{cookiecutter.team_name}}
 
-repo_url: https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.github_repo}}
-edit_uri: https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.github_repo}}/edit/{{cookiecutter.default_branch}}/docs
+repo_url: https://github.com/{{cookiecutter.company_name}}/{{cookiecutter.github_repo}}
+edit_uri: https://github.com/{{cookiecutter.company_name}}/{{cookiecutter.github_repo}}/edit/{{cookiecutter.default_branch}}/docs
 
 theme: readthedocs
 

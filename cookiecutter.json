@@ -1,12 +1,14 @@
 {
+    "company_name": "Wefoxgroup",
+    "team_name": "wg-data",
     "full_name": "Your Name",
     "email": "you@yourdomain.com",
-    "github_username": "jacebrowning",
+    "github_username": "JavierMartinezAlc",
     "github_repo": "template-python-demo",
     "default_branch": "master",
-    "project_name": "TemplateDemo",
+    "project_name": "wg-Demo",
     "package_name": "demo",
-    "project_short_description": "Sample project generated from Jace's Python Template.",
+    "project_short_description": "Sample project generated for Wefoxgroup",
     "python_major_version": 3,
     "python_minor_version": 8
 }

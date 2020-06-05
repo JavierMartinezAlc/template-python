@@ -1,2 +1,8 @@
+# If you want to ensure that text files that any contributor introduces to the 
+# repository have their line endings normalized, you can set the text attribute 
+# to "auto" for all files.
 * text=auto
+# Run 3-way file level merge for text files, but take lines from both versions, 
+# instead of leaving conflict markers. This tends to leave the added lines in 
+# the resulting file in random order and the user should verify the result
 CHANGELOG.md merge=union
